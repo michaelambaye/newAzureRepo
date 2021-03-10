@@ -1,5 +1,4 @@
 {
-    "appService.defaultWebAppToDeploy": "/subscriptions/de38a9bb-9f19-47ec-b6bf-0810c8cdcf96/resourceGroups/SL-AppServices/providers/Microsoft.Web/sites/newappmike",
     "appService.deploySubpath": "",
     "appService.zipIgnorePattern": [
         "node_modules{,/**}",
